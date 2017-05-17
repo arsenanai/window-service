@@ -252,7 +252,7 @@ fieldset[disabled] .btn-xl.active {
 }
 header {
   overflow: hidden;
-  background-image: url('http://obustroeno.com/wp-content/uploads/elementy-ustanovleny-vnutri-steklopaketa.jpg');
+  background-image: url('../img/header.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
